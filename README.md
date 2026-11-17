@@ -210,18 +210,6 @@ The goal is to deliver a genuinely useful, lightweight study companion that coul
 
 I have permission to use the Google Drive study guide content with attribution. Use the extracted Patente B question guide: author Gregg Poss; official question source cited as Ministero delle Infrastrutture e dei Trasporti, Conseguimento A-B italiano (210926), text extracted in jmorgadov/patente-pronta (CC BY 3.0 IT); reported error-rate source cited by the guide as quiz-patente.com learner data matched to ministry question text by ministerial code. Preserve attribution and label error rates as non-official learner data. The table extraction includes the full 100 questions, guide rankings, Italian statements, English translations, answers and explanations, but not ministerial question codes. Do not invent those codes or claim they are independently re-verified against the ministry PDF. Use guide_rank as a source order only; mark official identifiers unavailable. Use the extracted source records to provide the requested starting 20 fully sourced questions and make the remaining 80 easy to import. Translate missing source records only if not already present; do not fabricate official content.
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://patente-b.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/2f581159-986f-49f7-a3c3-a8ca6a25e0d9).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
 ## Development
 
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
